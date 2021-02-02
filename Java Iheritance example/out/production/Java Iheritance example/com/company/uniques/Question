@@ -1,0 +1,6 @@
+As another example, consider an online forum. Users of the forum typically have different roles, such as member,
+moderator and administrator.
+
+A member, moderator and administrator may create posts.
+A moderator and administrator may move posts to other categories, but a member can’t.
+An administrator may create categories, but a moderator and member can’t.
